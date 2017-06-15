@@ -1,6 +1,6 @@
 {
   "name": "Cookie_Test_NPM",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Test for publishing a custom Jupyter Widget",
   "author": "Ian Lumsden",
   "main": "src/index.js",
